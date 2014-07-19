@@ -54,11 +54,14 @@
             </tr>
         </tbody>
     </table>
-
+    <hr />
+    <div class="section">Last 24 Hours:</div>
+    <a href="#" data-bind="click:toggleHistoricalData,text:toggleHistoricalText"></a>
+    <hr />
+    <!-- ko if:showHistoricalData -->
     <table class="scoreTable">
         <tbody>
             <!-- ko foreach:voteEntries -->
-            <!-- ko if:$index() > 0 && $index() < 10 -->
             <tr>
                 <td>
                     <span class="caption" data-bind="text:percentageVotes1,attr:{class:status1()}"></span>
@@ -69,9 +72,9 @@
                 </td>
             </tr>
             <!-- /ko -->
-            <!-- /ko -->
         </tbody>
     </table>
+    <!-- /ko -->
     <hr/>
     <!-- FB-like and Twitter tweets -->
     <table align="center">
