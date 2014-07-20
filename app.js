@@ -57,12 +57,23 @@ var Pilpres2014 = (function () {
             _this.refreshMainTicker(_this.selectedDataFeed().datetime);
         });
 
+        this.toggleAboutUsText = ko.observable("Expand");
         this.toggleHistoricalText = ko.observable("Expand");
         this.toggleProvinceText = ko.observable("Expand");
     }
     Pilpres2014.prototype.updateVoteByDate = function (data, event) {
         var vm = ko.contextFor(event.currentTarget);
         vm.$root.refreshMainTicker(data.datetime);
+    };
+
+    Pilpres2014.prototype.toggleAboutUs = function () {
+        if (this.showAboutUs()) {
+            this.showAboutUs(false);
+            this.toggleAboutUsText("Expand");
+        } else {
+            this.showAboutUs(false);
+            this.toggleAboutUsText("Collapse");
+        }
     };
 
     Pilpres2014.prototype.toggleHistoricalData = function () {

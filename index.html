@@ -146,6 +146,8 @@
 
     <hr />
     <div class="section">About Us</div>
+    <a href="#" data-bind="click:toggleAboutUs,text:toggleAboutUsText"></a>
+    <!-- ko if:showAboutUs -->
     <div>
         <span class="footer">
             The data is obtained by automatic crawling http://pilpres2014.kpu.go.id periodically and updated every 6-12 hours.
@@ -177,5 +179,6 @@
         <div><span class="footer">Contributors: <a href="http://linkedin.com/in/rezaferry">Reza Ferrydiansyah</a> - UI Formatting/Data Validation (Starting 7/20/2014 PST)</span></div>
         <span class="footer">Contact Us: <a href="mailto:pilpres2014@outlook.com">e-mail</a></span>
     </div>
+    <!-- /ko -->
 </body>
 </html>
