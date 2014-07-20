@@ -31,6 +31,7 @@ var Pilpres2014 = (function () {
         this.provinceVoteEntries = ko.observableArray([]);
         this.showProvinceDetails = ko.observable(false);
         this.showHistoricalData = ko.observable(false);
+        this.showAboutUs = ko.observable(false);
 
         this.baseFeedUrl = "https://github.com/ht4n/Pilpres2014Portal/blob/master/KPU-Feeds-";
         this.historicalFeeds = ko.observableArray([]);
