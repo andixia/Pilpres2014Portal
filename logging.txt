@@ -50,3 +50,10 @@
  create mode 100644 KPU-Feeds-2014-07-20-10-AM-province.json
  create mode 100644 KPU-Feeds-2014-07-20-10-AM-total.json
  create mode 100644 KPU-Feeds-2014-07-20-10-AM.csv
+[master 5a96f15] new data
+ 7 files changed, 16260 insertions(+)
+ create mode 100644 KPU-Feeds-2014-07-20-12-PM-kabupaten.json
+ create mode 100644 KPU-Feeds-2014-07-20-12-PM-province.json
+ create mode 100644 KPU-Feeds-2014-07-20-12-PM-total.json
+ create mode 100644 KPU-Feeds-2014-07-20-12-PM.csv
+ create mode 100644 KPU-Feeds-2014-07-20-12-PM.tmp
