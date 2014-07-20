@@ -4,3 +4,11 @@
  create mode 100644 KPU-Feeds-2014-07-19-08-PM-province.json
  create mode 100644 KPU-Feeds-2014-07-19-08-PM-total.json
  create mode 100644 KPU-Feeds-2014-07-19-08-PM.csv
+[master 678202a] new data
+ 2 files changed, 4413 insertions(+), 810 deletions(-)
+[master d47effa] new data
+ 6 files changed, 9357 insertions(+)
+ create mode 100644 KPU-Feeds-2014-07-19-10-PM-kabupaten.json
+ create mode 100644 KPU-Feeds-2014-07-19-10-PM-province.json
+ create mode 100644 KPU-Feeds-2014-07-19-10-PM-total.json
+ create mode 100644 KPU-Feeds-2014-07-19-10-PM.csv
