@@ -72,7 +72,7 @@ var Pilpres2014 = (function () {
             this.showAboutUs(false);
             this.toggleAboutUsText("Expand");
         } else {
-            this.showAboutUs(false);
+            this.showAboutUs(true);
             this.toggleAboutUsText("Collapse");
         }
     };
