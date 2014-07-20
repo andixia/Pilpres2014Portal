@@ -8,25 +8,25 @@
                     "name":"ACEH",
                     "children": [
                         { "name":"ACEH BARAT", "size":"47335" },
-                        { "name":"ACEH BARAT DAYA", "size":"23509" },
+                        { "name":"ACEH BARAT DAYA", "size":"40672" },
                         { "name":"ACEH BESAR", "size":"86612" },
                         { "name":"ACEH JAYA", "size":"17392" },
                         { "name":"ACEH SELATAN", "size":"44505" },
-                        { "name":"ACEH SINGKIL", "size":"27281" },
+                        { "name":"ACEH SINGKIL", "size":"67885" },
                         { "name":"ACEH TAMIANG", "size":"74269" },
                         { "name":"ACEH TENGAH", "size":"40522" },
                         { "name":"ACEH TENGGARA", "size":"26515" },
                         { "name":"ACEH TIMUR", "size":"64601" },
-                        { "name":"ACEH UTARA", "size":"116882" },
+                        { "name":"ACEH UTARA", "size":"194189" },
                         { "name":"BENER MERIAH", "size":"8963" },
-                        { "name":"BIREUEN", "size":"95777" },
-                        { "name":"GAYO LUES", "size":"9965" },
+                        { "name":"BIREUEN", "size":"103655" },
+                        { "name":"GAYO LUES", "size":"10679" },
                         { "name":"KOTA BANDA ACEH", "size":"45823" },
                         { "name":"KOTA LANGSA", "size":"42693" },
                         { "name":"KOTA LHOKSEUMAWE", "size":"34616" },
                         { "name":"KOTA SABANG", "size":"7301" },
                         { "name":"KOTA SUBULUSSALAM", "size":"20172" },
-                        { "name":"NAGAN RAYA", "size":"35565" },
+                        { "name":"NAGAN RAYA", "size":"38690" },
                         { "name":"PIDIE", "size":"44708" },
                         { "name":"PIDIE JAYA", "size":"24082" },
                         { "name":"SIMEULUE", "size":"0" }
@@ -43,7 +43,7 @@
                         { "name":"KARANGASEM", "size":"80760" },
                         { "name":"KLUNGKUNG", "size":"35921" },
                         { "name":"KOTA DENPASAR", "size":"79880" },
-                        { "name":"TABANAN", "size":"88439" }
+                        { "name":"TABANAN", "size":"82214" }
                     ]
                 },
                 {
@@ -125,9 +125,9 @@
                 {
                     "name":"JAWA BARAT",
                     "children": [
-                        { "name":"BANDUNG", "size":"1171109" },
+                        { "name":"BANDUNG", "size":"1284812" },
                         { "name":"BANDUNG BARAT", "size":"547731" },
-                        { "name":"BEKASI", "size":"0" },
+                        { "name":"BEKASI", "size":"49799" },
                         { "name":"BOGOR", "size":"1636134" },
                         { "name":"CIAMIS", "size":"492890" },
                         { "name":"CIANJUR", "size":"643722" },
@@ -179,7 +179,7 @@
                         { "name":"KUDUS", "size":"195171" },
                         { "name":"MAGELANG", "size":"345405" },
                         { "name":"PATI", "size":"0" },
-                        { "name":"PEKALONGAN", "size":"175190" },
+                        { "name":"PEKALONGAN", "size":"148592" },
                         { "name":"PEMALANG", "size":"232693" },
                         { "name":"PURBALINGGA", "size":"183873" },
                         { "name":"PURWOREJO", "size":"166190" },
@@ -222,13 +222,13 @@
                         { "name":"MOJOKERTO", "size":"260355" },
                         { "name":"NGANJUK", "size":"232506" },
                         { "name":"NGAWI", "size":"200735" },
-                        { "name":"PACITAN", "size":"213993" },
+                        { "name":"PACITAN", "size":"205365" },
                         { "name":"PAMEKASAN", "size":"335584" },
                         { "name":"PASURUAN", "size":"474725" },
                         { "name":"PONOROGO", "size":"250385" },
                         { "name":"PROBOLINGGO", "size":"280103" },
                         { "name":"SAMPANG", "size":"474752" },
-                        { "name":"SIDOARJO", "size":"480409" },
+                        { "name":"SIDOARJO", "size":"464893" },
                         { "name":"SITUBONDO", "size":"220034" },
                         { "name":"SUMENEP", "size":"301757" },
                         { "name":"TRENGGALEK", "size":"140980" },
@@ -660,7 +660,7 @@
                         { "name":"SIMALUNGUN", "size":"144362" },
                         { "name":"TAPANULI SELATAN", "size":"82611" },
                         { "name":"TAPANULI TENGAH", "size":"23846" },
-                        { "name":"TAPANULI UTARA", "size":"10213" },
+                        { "name":"TAPANULI UTARA", "size":"11127" },
                         { "name":"TOBA SAMOSIR", "size":"7857" }
                     ]
                 }
@@ -673,25 +673,25 @@
                     "name":"ACEH",
                     "children": [
                         { "name":"ACEH BARAT", "size":"40062" },
-                        { "name":"ACEH BARAT DAYA", "size":"21976" },
+                        { "name":"ACEH BARAT DAYA", "size":"41145" },
                         { "name":"ACEH BESAR", "size":"67638" },
                         { "name":"ACEH JAYA", "size":"13053" },
                         { "name":"ACEH SELATAN", "size":"32270" },
-                        { "name":"ACEH SINGKIL", "size":"19230" },
+                        { "name":"ACEH SINGKIL", "size":"47594" },
                         { "name":"ACEH TAMIANG", "size":"41143" },
                         { "name":"ACEH TENGAH", "size":"57882" },
                         { "name":"ACEH TENGGARA", "size":"10376" },
                         { "name":"ACEH TIMUR", "size":"63548" },
-                        { "name":"ACEH UTARA", "size":"76217" },
+                        { "name":"ACEH UTARA", "size":"123927" },
                         { "name":"BENER MERIAH", "size":"13041" },
-                        { "name":"BIREUEN", "size":"60087" },
-                        { "name":"GAYO LUES", "size":"15891" },
+                        { "name":"BIREUEN", "size":"63183" },
+                        { "name":"GAYO LUES", "size":"17452" },
                         { "name":"KOTA BANDA ACEH", "size":"36003" },
                         { "name":"KOTA LANGSA", "size":"18340" },
                         { "name":"KOTA LHOKSEUMAWE", "size":"19296" },
                         { "name":"KOTA SABANG", "size":"5537" },
                         { "name":"KOTA SUBULUSSALAM", "size":"11276" },
-                        { "name":"NAGAN RAYA", "size":"38848" },
+                        { "name":"NAGAN RAYA", "size":"43169" },
                         { "name":"PIDIE", "size":"58715" },
                         { "name":"PIDIE JAYA", "size":"30338" },
                         { "name":"SIMEULUE", "size":"0" }
@@ -708,7 +708,7 @@
                         { "name":"KARANGASEM", "size":"159864" },
                         { "name":"KLUNGKUNG", "size":"70831" },
                         { "name":"KOTA DENPASAR", "size":"241620" },
-                        { "name":"TABANAN", "size":"232573" }
+                        { "name":"TABANAN", "size":"210896" }
                     ]
                 },
                 {
@@ -790,9 +790,9 @@
                 {
                     "name":"JAWA BARAT",
                     "children": [
-                        { "name":"BANDUNG", "size":"655044" },
+                        { "name":"BANDUNG", "size":"744235" },
                         { "name":"BANDUNG BARAT", "size":"332085" },
-                        { "name":"BEKASI", "size":"0" },
+                        { "name":"BEKASI", "size":"29886" },
                         { "name":"BOGOR", "size":"852888" },
                         { "name":"CIAMIS", "size":"418505" },
                         { "name":"CIANJUR", "size":"442822" },
@@ -844,7 +844,7 @@
                         { "name":"KUDUS", "size":"260384" },
                         { "name":"MAGELANG", "size":"407458" },
                         { "name":"PATI", "size":"0" },
-                        { "name":"PEKALONGAN", "size":"388379" },
+                        { "name":"PEKALONGAN", "size":"328245" },
                         { "name":"PEMALANG", "size":"453468" },
                         { "name":"PURBALINGGA", "size":"320704" },
                         { "name":"PURWOREJO", "size":"262246" },
@@ -887,13 +887,13 @@
                         { "name":"MOJOKERTO", "size":"370265" },
                         { "name":"NGANJUK", "size":"376899" },
                         { "name":"NGAWI", "size":"303169" },
-                        { "name":"PACITAN", "size":"121389" },
+                        { "name":"PACITAN", "size":"112332" },
                         { "name":"PAMEKASAN", "size":"119639" },
                         { "name":"PASURUAN", "size":"344930" },
                         { "name":"PONOROGO", "size":"280689" },
                         { "name":"PROBOLINGGO", "size":"289694" },
                         { "name":"SAMPANG", "size":"162755" },
-                        { "name":"SIDOARJO", "size":"563525" },
+                        { "name":"SIDOARJO", "size":"550726" },
                         { "name":"SITUBONDO", "size":"153018" },
                         { "name":"SUMENEP", "size":"232682" },
                         { "name":"TRENGGALEK", "size":"267772" },
@@ -1325,7 +1325,7 @@
                         { "name":"SIMALUNGUN", "size":"276389" },
                         { "name":"TAPANULI SELATAN", "size":"50633" },
                         { "name":"TAPANULI TENGAH", "size":"64493" },
-                        { "name":"TAPANULI UTARA", "size":"102128" },
+                        { "name":"TAPANULI UTARA", "size":"108523" },
                         { "name":"TOBA SAMOSIR", "size":"75675" }
                     ]
                 }
