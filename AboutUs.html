@@ -26,14 +26,18 @@
             The data is obtained by automatic crawling http://pilpres2014.kpu.go.id periodically and updated every 2 hours automatically.
             <br/>
             There is no public API published by KPU.go.id but I have reversed-engineered the API and it is documented here <a href="https://github.com/ht4n/Pilpres2014/blob/master/README.md">documentation</a>.
-
-            We automate everything to minimize any errors due to manual human process. the system has since been running under 'autopilot' mode.<br/>
-            Using task scheduler and batch-scripts, the script executes the following workflow:<br />
+        </span>
+    </div>
+    <div class="paragraph">
+        <span class="footer">
+            <img src="pilpres2014_architecture.PNG" />
+            We automate everything to minimize any errors due to manual human process. the system has since been running under 'autopilot' mode.><br/><br/>
+            We use a simple Windows task scheduler and batch-scripts to execute the following work flow automatically:<br /><br />
                 1. Triggers crawling task and run data processing and formatting<br/>
                 2. Commit and push the metadata and reports to GitHub<br/>
                 3. Windows Azure will auto-pull the changes to http://www.pilpres2014.org<br/>
 
-            The 1-pager system architecture can be viewed <a href="http://www.pilpres2014.org/pilpres2014_architecture.PNG">here</a>
+            The 1-pager system architecture can be viewed <a href="pilpres2014_architecture.pdf">here</a> and 
         </span>
     </div>    
     <div class="paragraph">
