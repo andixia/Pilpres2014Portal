@@ -7,8 +7,7 @@
 <body>
     <div class="section">About Pilpres2014.org</div>
     <div>
-        <span class="footer">
-            The data is obtained by automatic crawling http://pilpres2014.kpu.go.id periodically and updated every 6-12 hours.
+        <span>            
             This website is not an official KPU website and although the numbers are automatically crawled from pilpres2014.kpu.go.id you should not treat this as official numbers.
 
             DA1 data that is sent from the District is a result that has been decided on its level and not at the national level and not the final results because the data may change according
@@ -18,9 +17,25 @@
             for an honest, clean, respectable and integral democracy process.
         </span>
     </div>
-    <div>
-        <span class="caption">DISCLAIMER: the development of this site is a personal initiative and it is not affiliated with any companies or organizations. It is for the integral democracy process of the people for the people and by the people.</span>
+    <div class="paragraph">
+        <span>DISCLAIMER: the development of this site is a personal initiative and it is not affiliated with any companies or organizations. It is for the integral democracy process of the people for the people and by the people.</span>
     </div>
+    <div class="section">Technologies</div>
+    <div class="paragraph">
+        <span>
+            The data is obtained by automatic crawling http://pilpres2014.kpu.go.id periodically and updated every 2 hours automatically.
+            <br/>
+            There is no public API published by KPU.go.id but I have reversed-engineered the API and it is documented here <a href="https://github.com/ht4n/Pilpres2014/blob/master/README.md">documentation</a>.
+
+            We automate everything to minimize any errors due to manual human process. the system has since been running under 'autopilot' mode.<br/>
+            Using task scheduler and batch-scripts, the script executes the following workflow:<br />
+                1. Triggers crawling task and run data processing and formatting<br/>
+                2. Commit and push the metadata and reports to GitHub<br/>
+                3. Windows Azure will auto-pull the changes to http://www.pilpres2014.org<br/>
+
+            The 1-pager system architecture can be viewed <a href="http://www.pilpres2014.org/pilpres2014_architecture.PNG"></a>here.
+        </span>
+    </div>    
     <div class="paragraph">
         <span class="footer">
             This site is built on top of <a href="http://azure.microsoft.com/">Windows Azure</a> cloud technology and many open source technologies such as <a href="http://knockoutjs.com">KnockoutJS</a>,

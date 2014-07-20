@@ -17,10 +17,6 @@ var VoteEntry = (function () {
 var Pilpres2014 = (function () {
     function Pilpres2014() {
         var _this = this;
-        this.showProvinceDetails = ko.observable(false);
-        this.showHistoricalData = ko.observable(false);
-        this.showAboutUs = ko.observable(false);
-
         var self = this;
         this.url = ko.observable("https://github.com/ht4n/Pilpres2014");
         this.provinces = ko.observableArray([]);
@@ -33,6 +29,8 @@ var Pilpres2014 = (function () {
         this.totalVotes = ko.observable("");
         this.voteEntries = ko.observableArray([]);
         this.provinceVoteEntries = ko.observableArray([]);
+        this.showProvinceDetails = ko.observable(false);
+        this.showHistoricalData = ko.observable(false);
 
         this.baseFeedUrl = "https://github.com/ht4n/Pilpres2014Portal/blob/master/KPU-Feeds-";
         this.historicalFeeds = ko.observableArray([]);
@@ -59,23 +57,12 @@ var Pilpres2014 = (function () {
             _this.refreshMainTicker(_this.selectedDataFeed().datetime);
         });
 
-        this.toggleAboutUsText = ko.observable("Expand");
         this.toggleHistoricalText = ko.observable("Expand");
         this.toggleProvinceText = ko.observable("Expand");
     }
     Pilpres2014.prototype.updateVoteByDate = function (data, event) {
         var vm = ko.contextFor(event.currentTarget);
         vm.$root.refreshMainTicker(data.datetime);
-    };
-
-    Pilpres2014.prototype.toggleAboutUs = function () {
-        if (this.showAboutUs()) {
-            this.showAboutUs(false);
-            this.toggleAboutUsText("Expand");
-        } else {
-            this.showAboutUs(true);
-            this.toggleAboutUsText("Collapse");
-        }
     };
 
     Pilpres2014.prototype.toggleHistoricalData = function () {
