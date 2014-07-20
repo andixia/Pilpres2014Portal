@@ -87,7 +87,7 @@ var title = svg.append("text")
     .attr("dy", ".71em")
     .text(2000);
 
-d3.tsv("totaltrend.tsv", function(error, data) {
+d3.csv("pyramidbar.csv", function(error, data) {
 
   // Convert strings to numbers.
   data.forEach(function(d) {
