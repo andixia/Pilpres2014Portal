@@ -10,6 +10,10 @@ table tbody {
     text-align: center;
 }
 
+.provinceTable {
+	width: 80%;
+}
+
 .scoreTable {
     margin-left: 0%;
     margin-right: 0%;
@@ -96,4 +100,8 @@ a {
 
 iframe {
     width:100%;
+}
+
+.tableHeader {
+    background:#e0e4e4;
 }
