@@ -124,6 +124,7 @@
     </table>
     <div class="section">Last 72 Hours:</div>
     <a href="#" data-bind="click:toggleHistoricalData,text:toggleHistoricalText"></a>
+    <select data-bind="options:rekapLevels,value:selectedRekapLevel"></select>
     <hr />
     <!-- ko if:showHistoricalData -->
     <table class="scoreTable">
@@ -161,6 +162,7 @@
     <div class="section">Provincial Votes:</div>
     <a href="#" data-bind="click:toggleProvinceDetails,text:toggleProvinceText"></a>
     <a href="#" data-bind="click:refreshProvinceDetails">Refresh</a>
+    <select data-bind="options:rekapLevels,value:selectedRekapLevel"></select>
     <hr />
     <!-- ko if:showProvinceDetails -->
     <span class="caption">(Click table header to sort)</span>
@@ -192,14 +194,15 @@
     <hr />
     <div class="section">Downloads Historical Data:</div>
     <select data-bind="options:historicalFeeds, optionsText: function(item) { return item.datetime }, value:selectedDataFeed"></select>
+    <select data-bind="options:rekapLevels,value:selectedRekapLevel"></select>
     <!-- ko with:selectedDataFeed -->
-    <a data-bind="attr:{href:$root.baseFeedUrl + datetime + '.csv'}">complete</a>
+    <a data-bind="attr:{href:$root.baseFeedUrl + datetime + $root.getFileRekapPrefix() + '.csv'}">complete</a>
     |
-    <a data-bind="attr:{href:$root.baseFeedUrl + datetime + '-total.json'}">national</a>
+    <a data-bind="attr:{href:$root.baseFeedUrl + datetime + '-total' + $root.getFileRekapPrefix() + '.json'}">national</a>
     |
-    <a data-bind="attr:{href:$root.baseFeedUrl + datetime + '-province.json'}">province</a>
+    <a data-bind="attr:{href:$root.baseFeedUrl + datetime + '-province' + $root.getFileRekapPrefix() + '.json'}">province</a>
     |
-    <a data-bind="attr:{href:$root.baseFeedUrl + datetime + '-kabupaten.json'}">kabupaten</a>
+    <a data-bind="attr:{href:$root.baseFeedUrl + datetime + '-kabupaten' + $root.getFileRekapPrefix() + '.json'}">kabupaten</a>
     <!-- /ko -->
 
     <hr />
