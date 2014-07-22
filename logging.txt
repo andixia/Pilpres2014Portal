@@ -83,3 +83,33 @@
  create mode 100644 KPU-Feeds-2014-07-21-10-AM.dba1.tmp
  create mode 100644 KPU-Feeds-2014-07-21-10-AM.dc1.csv
  create mode 100644 KPU-Feeds-2014-07-21-10-AM.dc1.tmp
+[master b279603] new data
+ 18 files changed, 26858 insertions(+), 8987 deletions(-)
+ create mode 100644 KPU-Feeds-2014-07-21-12-PM-kabupaten.json
+ create mode 100644 KPU-Feeds-2014-07-21-12-PM-province.db1.json
+ create mode 100644 KPU-Feeds-2014-07-21-12-PM-province.dc1.json
+ create mode 100644 KPU-Feeds-2014-07-21-12-PM-province.json
+ create mode 100644 KPU-Feeds-2014-07-21-12-PM-total.db1.json
+ create mode 100644 KPU-Feeds-2014-07-21-12-PM-total.dc1.json
+ create mode 100644 KPU-Feeds-2014-07-21-12-PM-total.json
+ create mode 100644 KPU-Feeds-2014-07-21-12-PM.csv
+ create mode 100644 KPU-Feeds-2014-07-21-12-PM.db1.csv
+ create mode 100644 KPU-Feeds-2014-07-21-12-PM.db1.tmp
+ create mode 100644 KPU-Feeds-2014-07-21-12-PM.dba1.tmp
+ create mode 100644 KPU-Feeds-2014-07-21-12-PM.dc1.csv
+ create mode 100644 KPU-Feeds-2014-07-21-12-PM.dc1.tmp
+[master 8de1a37] new data
+ 18 files changed, 26835 insertions(+), 8967 deletions(-)
+ create mode 100644 KPU-Feeds-2014-07-21-04-PM-kabupaten.json
+ create mode 100644 KPU-Feeds-2014-07-21-04-PM-province.db1.json
+ create mode 100644 KPU-Feeds-2014-07-21-04-PM-province.dc1.json
+ create mode 100644 KPU-Feeds-2014-07-21-04-PM-province.json
+ create mode 100644 KPU-Feeds-2014-07-21-04-PM-total.db1.json
+ create mode 100644 KPU-Feeds-2014-07-21-04-PM-total.dc1.json
+ create mode 100644 KPU-Feeds-2014-07-21-04-PM-total.json
+ create mode 100644 KPU-Feeds-2014-07-21-04-PM.csv
+ create mode 100644 KPU-Feeds-2014-07-21-04-PM.db1.csv
+ create mode 100644 KPU-Feeds-2014-07-21-04-PM.db1.tmp
+ create mode 100644 KPU-Feeds-2014-07-21-04-PM.dba1.tmp
+ create mode 100644 KPU-Feeds-2014-07-21-04-PM.dc1.csv
+ create mode 100644 KPU-Feeds-2014-07-21-04-PM.dc1.tmp
