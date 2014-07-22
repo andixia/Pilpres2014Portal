@@ -14,8 +14,8 @@
                 { "name":"LAMPUNG", "size":"2033924" },
                 { "name":"KEPULAUAN BANGKA BELITUNG", "size":"183871" },
                 { "name":"KEPULAUAN RIAU", "size":"332912" },
-                { "name":"DKI JAKARTA", "size":"2528308" },
-                { "name":"JAWA BARAT", "size":"13058610" },
+                { "name":"DKI JAKARTA", "size":"2528309" },
+                { "name":"JAWA BARAT", "size":"13102308" },
                 { "name":"JAWA TENGAH", "size":"6054525" },
                 { "name":"DAERAH ISTIMEWA YOGYAKARTA", "size":"977342" },
                 { "name":"JAWA TIMUR", "size":"9949500" },
@@ -36,7 +36,7 @@
                 { "name":"MALUKU", "size":"169989" },
                 { "name":"MALUKU UTARA", "size":"242433" },
                 { "name":"PAPUA", "size":"258283" },
-                { "name":"PAPUA BARAT", "size":"114966" }
+                { "name":"PAPUA BARAT", "size":"115182" }
             ]
         },
         {
@@ -52,8 +52,8 @@
                 { "name":"LAMPUNG", "size":"2299889" },
                 { "name":"KEPULAUAN BANGKA BELITUNG", "size":"384022" },
                 { "name":"KEPULAUAN RIAU", "size":"491819" },
-                { "name":"DKI JAKARTA", "size":"2860633" },
-                { "name":"JAWA BARAT", "size":"8814892" },
+                { "name":"DKI JAKARTA", "size":"2860635" },
+                { "name":"JAWA BARAT", "size":"8843990" },
                 { "name":"JAWA TENGAH", "size":"12250238" },
                 { "name":"DAERAH ISTIMEWA YOGYAKARTA", "size":"1234249" },
                 { "name":"JAWA TIMUR", "size":"11278852" },
@@ -74,7 +74,7 @@
                 { "name":"MALUKU", "size":"203175" },
                 { "name":"MALUKU UTARA", "size":"201133" },
                 { "name":"PAPUA", "size":"801083" },
-                { "name":"PAPUA BARAT", "size":"252747" }
+                { "name":"PAPUA BARAT", "size":"252406" }
             ]
         }
     ]
