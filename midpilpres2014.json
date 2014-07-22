@@ -19,16 +19,16 @@
                         { "name":"ACEH SINGKIL", "size":"27281" },
                         { "name":"BIREUEN", "size":"95777" },
                         { "name":"ACEH BARAT DAYA", "size":"23509" },
-                        { "name":"GAYO LUES", "size":"9965" },
+                        { "name":"GAYO LUES", "size":"18172" },
                         { "name":"ACEH JAYA", "size":"17392" },
                         { "name":"NAGAN RAYA", "size":"35565" },
                         { "name":"ACEH TAMIANG", "size":"74269" },
                         { "name":"BENER MERIAH", "size":"8963" },
                         { "name":"PIDIE JAYA", "size":"24082" },
                         { "name":"KOTA BANDA ACEH", "size":"45823" },
-                        { "name":"KOTA LANGSA", "size":"42693" },
                         { "name":"KOTA SABANG", "size":"7301" },
                         { "name":"KOTA LHOKSEUMAWE", "size":"34616" },
+                        { "name":"KOTA LANGSA", "size":"42693" },
                         { "name":"KOTA SUBULUSSALAM", "size":"20172" }
                     ]
                 },
@@ -48,7 +48,7 @@
                         { "name":"DAIRI", "size":"22125" },
                         { "name":"TOBA SAMOSIR", "size":"8154" },
                         { "name":"MANDAILING NATAL", "size":"150048" },
-                        { "name":"NIAS SELATAN", "size":"17046" },
+                        { "name":"NIAS SELATAN", "size":"21407" },
                         { "name":"PAKPAK BHARAT", "size":"6681" },
                         { "name":"HUMBANG HASUNDUTAN", "size":"8284" },
                         { "name":"SAMOSIR", "size":"3206" },
@@ -56,8 +56,8 @@
                         { "name":"BATU BARA", "size":"81404" },
                         { "name":"PADANG LAWAS UTARA", "size":"82412" },
                         { "name":"PADANG LAWAS", "size":"76763" },
-                        { "name":"LABUHANBATU UTARA", "size":"57559" },
                         { "name":"LABUHANBATU SELATAN", "size":"66898" },
+                        { "name":"LABUHANBATU UTARA", "size":"57559" },
                         { "name":"NIAS UTARA", "size":"7283" },
                         { "name":"NIAS BARAT", "size":"4283" },
                         { "name":"KOTA MEDAN", "size":"530243" },
@@ -66,8 +66,8 @@
                         { "name":"KOTA TANJUNG BALAI", "size":"34519" },
                         { "name":"KOTA BINJAI", "size":"77888" },
                         { "name":"KOTA TEBING TINGGI", "size":"41592" },
-                        { "name":"KOTA PADANG SIDIMPUAN", "size":"71847" },
-                        { "name":"KOTA GUNUNGSITOLI", "size":"9364" }
+                        { "name":"KOTA GUNUNGSITOLI", "size":"9364" },
+                        { "name":"KOTA PADANG SIDIMPUAN", "size":"71847" }
                     ]
                 },
                 {
@@ -86,12 +86,12 @@
                         { "name":"SOLOK SELATAN", "size":"56065" },
                         { "name":"PASAMAN BARAT", "size":"121700" },
                         { "name":"KOTA PADANG", "size":"304850" },
-                        { "name":"KOTA PADANG PANJANG", "size":"18947" },
                         { "name":"KOTA SAWAHLUNTO", "size":"23474" },
-                        { "name":"KOTA SOLOK", "size":"25649" },
                         { "name":"KOTA BUKITTINGGI", "size":"23615" },
+                        { "name":"KOTA PADANG PANJANG", "size":"18947" },
                         { "name":"KOTA PAYAKUMBUH", "size":"47131" },
-                        { "name":"KOTA PARIAMAN", "size":"33979" }
+                        { "name":"KOTA PARIAMAN", "size":"33979" },
+                        { "name":"KOTA SOLOK", "size":"25649" }
                     ]
                 },
                 {
@@ -142,8 +142,8 @@
                         { "name":"OGAN ILIR", "size":"29240" },
                         { "name":"EMPAT LAWANG", "size":"0" },
                         { "name":"KOTA PALEMBANG", "size":"312635" },
-                        { "name":"KOTA LUBUKLINGGAU", "size":"55804" },
                         { "name":"KOTA PAGAR ALAM", "size":"27608" },
+                        { "name":"KOTA LUBUKLINGGAU", "size":"55804" },
                         { "name":"KOTA PRABUMULIH", "size":"44281" }
                     ]
                 },
@@ -187,8 +187,8 @@
                         { "name":"BANGKA", "size":"31854" },
                         { "name":"BELITUNG", "size":"28539" },
                         { "name":"BANGKA SELATAN", "size":"24574" },
-                        { "name":"BANGKA TENGAH", "size":"22078" },
                         { "name":"BANGKA BARAT", "size":"22481" },
+                        { "name":"BANGKA TENGAH", "size":"22078" },
                         { "name":"BELITUNG TIMUR", "size":"18542" },
                         { "name":"KOTA PANGKALPINANG", "size":"35803" }
                     ]
@@ -208,8 +208,8 @@
                 {
                     "name":"DKI JAKARTA",
                     "children": [
-                        { "name":"JAKARTA PUSAT", "size":"258376" },
                         { "name":"KEPULAUAN SERIBU", "size":"6906" },
+                        { "name":"JAKARTA PUSAT", "size":"258376" },
                         { "name":"JAKARTA UTARA", "size":"342896" },
                         { "name":"JAKARTA BARAT", "size":"479815" },
                         { "name":"JAKARTA SELATAN", "size":"612441" },
@@ -242,9 +242,9 @@
                         { "name":"KOTA CIREBON", "size":"78359" },
                         { "name":"KOTA BEKASI", "size":"671405" },
                         { "name":"KOTA DEPOK", "size":"543284" },
-                        { "name":"KOTA CIMAHI", "size":"198498" },
                         { "name":"KOTA TASIKMALAYA", "size":"281665" },
-                        { "name":"KOTA BANJAR", "size":"56569" }
+                        { "name":"KOTA BANJAR", "size":"56569" },
+                        { "name":"KOTA CIMAHI", "size":"198498" }
                     ]
                 },
                 {
@@ -280,11 +280,11 @@
                         { "name":"TEGAL", "size":"297850" },
                         { "name":"BREBES", "size":"317975" },
                         { "name":"KOTA SURAKARTA", "size":"52703" },
+                        { "name":"KOTA SALATIGA", "size":"38628" },
                         { "name":"KOTA MAGELANG", "size":"32173" },
                         { "name":"KOTA SEMARANG", "size":"292496" },
-                        { "name":"KOTA SALATIGA", "size":"38628" },
-                        { "name":"KOTA TEGAL", "size":"55912" },
-                        { "name":"KOTA PEKALONGAN", "size":"64738" }
+                        { "name":"KOTA PEKALONGAN", "size":"64738" },
+                        { "name":"KOTA TEGAL", "size":"55912" }
                     ]
                 },
                 {
@@ -331,12 +331,12 @@
                         { "name":"SUMENEP", "size":"301757" },
                         { "name":"KOTA KEDIRI", "size":"59461" },
                         { "name":"KOTA BLITAR", "size":"29349" },
-                        { "name":"KOTA PROBOLINGGO", "size":"69112" },
                         { "name":"KOTA MALANG", "size":"182128" },
                         { "name":"KOTA PASURUAN", "size":"58967" },
+                        { "name":"KOTA PROBOLINGGO", "size":"69112" },
                         { "name":"KOTA MADIUN", "size":"41048" },
-                        { "name":"KOTA SURABAYA", "size":"498736" },
                         { "name":"KOTA MOJOKERTO", "size":"32706" },
+                        { "name":"KOTA SURABAYA", "size":"498736" },
                         { "name":"KOTA BATU", "size":"72320" }
                     ]
                 },
@@ -358,11 +358,11 @@
                     "children": [
                         { "name":"JEMBRANA", "size":"53278" },
                         { "name":"TABANAN", "size":"82214" },
-                        { "name":"GIANYAR", "size":"63953" },
                         { "name":"BADUNG", "size":"78066" },
+                        { "name":"GIANYAR", "size":"63953" },
+                        { "name":"BANGLI", "size":"37317" },
                         { "name":"KLUNGKUNG", "size":"35921" },
                         { "name":"KARANGASEM", "size":"80760" },
-                        { "name":"BANGLI", "size":"37317" },
                         { "name":"BULELENG", "size":"102852" },
                         { "name":"KOTA DENPASAR", "size":"79880" }
                     ]
@@ -378,8 +378,8 @@
                         { "name":"BIMA", "size":"168840" },
                         { "name":"SUMBAWA BARAT", "size":"43934" },
                         { "name":"LOMBOK UTARA", "size":"83339" },
-                        { "name":"KOTA MATARAM", "size":"143741" },
-                        { "name":"KOTA BIMA", "size":"59894" }
+                        { "name":"KOTA BIMA", "size":"59894" },
+                        { "name":"KOTA MATARAM", "size":"143741" }
                     ]
                 },
                 {
@@ -400,12 +400,12 @@
                         { "name":"LEMBATA", "size":"8403" },
                         { "name":"ROTE NDAO", "size":"11862" },
                         { "name":"MANGGARAI BARAT", "size":"31080" },
-                        { "name":"SUMBA TENGAH", "size":"1080" },
                         { "name":"NAGEKEO", "size":"8628" },
+                        { "name":"SUMBA TENGAH", "size":"1080" },
                         { "name":"SUMBA BARAT DAYA", "size":"50596" },
                         { "name":"MANGGARAI TIMUR", "size":"29706" },
-                        { "name":"SABU RAIJUA", "size":"11163" },
-                        { "name":"KOTA KUPANG", "size":"72361" }
+                        { "name":"KOTA KUPANG", "size":"72361" },
+                        { "name":"SABU RAIJUA", "size":"11163" }
                     ]
                 },
                 {
@@ -430,18 +430,18 @@
                 {
                     "name":"KALIMANTAN TENGAH",
                     "children": [
-                        { "name":"KOTAWARINGIN BARAT", "size":"61293" },
                         { "name":"KOTAWARINGIN TIMUR", "size":"79206" },
+                        { "name":"KOTAWARINGIN BARAT", "size":"61293" },
                         { "name":"KAPUAS", "size":"78155" },
                         { "name":"BARITO SELATAN", "size":"23141" },
                         { "name":"BARITO UTARA", "size":"0" },
                         { "name":"KATINGAN", "size":"22595" },
                         { "name":"SERUYAN", "size":"28589" },
-                        { "name":"SUKAMARA", "size":"8435" },
                         { "name":"LAMANDAU", "size":"11739" },
+                        { "name":"SUKAMARA", "size":"8435" },
                         { "name":"GUNUNG MAS", "size":"0" },
-                        { "name":"PULANG PISAU", "size":"23195" },
                         { "name":"MURUNG RAYA", "size":"20732" },
+                        { "name":"PULANG PISAU", "size":"23195" },
                         { "name":"BARITO TIMUR", "size":"19907" },
                         { "name":"KOTA PALANGKARAYA", "size":"54687" }
                     ]
@@ -467,20 +467,20 @@
                 {
                     "name":"KALIMANTAN TIMUR",
                     "children": [
-                        { "name":"KUTAI KARTANEGARA", "size":"117811" },
                         { "name":"PASER", "size":"50382" },
+                        { "name":"KUTAI KARTANEGARA", "size":"117811" },
                         { "name":"BERAU", "size":"29065" },
                         { "name":"BULUNGAN", "size":"17884" },
-                        { "name":"NUNUKAN", "size":"7508" },
+                        { "name":"NUNUKAN", "size":"13008" },
                         { "name":"MALINAU", "size":"7966" },
                         { "name":"KUTAI BARAT", "size":"21161" },
                         { "name":"KUTAI TIMUR", "size":"46159" },
-                        { "name":"PENAJAM PASER UTARA", "size":"31490" },
                         { "name":"TANA TIDUNG", "size":"2807" },
+                        { "name":"PENAJAM PASER UTARA", "size":"31490" },
                         { "name":"KOTA BALIKPAPAN", "size":"123073" },
                         { "name":"KOTA SAMARINDA", "size":"155316" },
-                        { "name":"KOTA TARAKAN", "size":"36465" },
-                        { "name":"KOTA BONTANG", "size":"30757" }
+                        { "name":"KOTA BONTANG", "size":"30757" },
+                        { "name":"KOTA TARAKAN", "size":"36465" }
                     ]
                 },
                 {
@@ -494,8 +494,8 @@
                         { "name":"MINAHASA UTARA", "size":"55360" },
                         { "name":"MINAHASA TENGGARA", "size":"32870" },
                         { "name":"BOLAANG MONGONDOW UTARA", "size":"22172" },
-                        { "name":"BOLAANG MONGONDOW SELATAN", "size":"19624" },
                         { "name":"BOLAANG MONGONDOW TIMUR", "size":"22923" },
+                        { "name":"BOLAANG MONGONDOW SELATAN", "size":"19624" },
                         { "name":"KOTA MANADO", "size":"94408" },
                         { "name":"KOTA BITUNG", "size":"41634" },
                         { "name":"KOTA TOMOHON", "size":"26137" },
@@ -530,8 +530,8 @@
                         { "name":"BONE", "size":"53813" },
                         { "name":"MAROS", "size":"47191" },
                         { "name":"PANGKAJENE DAN KEPULAUAN", "size":"47468" },
-                        { "name":"BARRU", "size":"13790" },
                         { "name":"SOPPENG", "size":"19645" },
+                        { "name":"BARRU", "size":"13790" },
                         { "name":"WAJO", "size":"28399" },
                         { "name":"SIDENRENG RAPPANG", "size":"29310" },
                         { "name":"PINRANG", "size":"41560" },
@@ -567,8 +567,8 @@
                     "name":"GORONTALO",
                     "children": [
                         { "name":"GORONTALO", "size":"140134" },
-                        { "name":"BONE BOLANGO", "size":"54995" },
                         { "name":"BOALEMO", "size":"43129" },
+                        { "name":"BONE BOLANGO", "size":"54995" },
                         { "name":"PAHUWATO", "size":"37943" },
                         { "name":"GORONTALO UTARA", "size":"40269" },
                         { "name":"KOTA GORONTALO", "size":"62265" }
@@ -588,16 +588,16 @@
                     "name":"MALUKU",
                     "children": [
                         { "name":"MALUKU TENGAH", "size":"0" },
-                        { "name":"MALUKU TENGGARA", "size":"17944" },
                         { "name":"MALUKU TENGGARA BARAT", "size":"0" },
+                        { "name":"MALUKU TENGGARA", "size":"17944" },
                         { "name":"BURU", "size":"40928" },
                         { "name":"SERAM BAGIAN TIMUR", "size":"0" },
                         { "name":"SERAM BAGIAN BARAT", "size":"22354" },
                         { "name":"KEPULAUAN ARU", "size":"7063" },
                         { "name":"MALUKU BARAT DAYA", "size":"5564" },
                         { "name":"BURU SELATAN", "size":"0" },
-                        { "name":"KOTA TUAL", "size":"0" },
-                        { "name":"KOTA AMBON", "size":"76136" }
+                        { "name":"KOTA AMBON", "size":"76136" },
+                        { "name":"KOTA TUAL", "size":"0" }
                     ]
                 },
                 {
@@ -626,8 +626,8 @@
                         { "name":"PUNCAK JAYA", "size":"7996" },
                         { "name":"PANIAI", "size":"0" },
                         { "name":"MIMIKA", "size":"57937" },
-                        { "name":"SARMI", "size":"4561" },
                         { "name":"KEEROM", "size":"0" },
+                        { "name":"SARMI", "size":"4561" },
                         { "name":"PEGUNUNGAN BINTANG", "size":"5505" },
                         { "name":"YAHUKIMO", "size":"11876" },
                         { "name":"TOLIKARA", "size":"0" },
@@ -639,8 +639,8 @@
                         { "name":"MAMBERAMO RAYA", "size":"0" },
                         { "name":"MAMBERAMO TENGAH", "size":"0" },
                         { "name":"YALIMO", "size":"17812" },
-                        { "name":"LANNY JAYA", "size":"82841" },
                         { "name":"NDUGA", "size":"0" },
+                        { "name":"LANNY JAYA", "size":"82841" },
                         { "name":"PUNCAK", "size":"8071" },
                         { "name":"DOGIYAI", "size":"0" },
                         { "name":"INTAN JAYA", "size":"0" },
@@ -652,16 +652,16 @@
                     "name":"PAPUA BARAT",
                     "children": [
                         { "name":"SORONG", "size":"24307" },
-                        { "name":"MANOKWARI", "size":"32642" },
-                        { "name":"FAKFAK", "size":"0" },
+                        { "name":"MANOKWARI", "size":"33430" },
                         { "name":"SORONG SELATAN", "size":"6755" },
+                        { "name":"FAKFAK", "size":"0" },
                         { "name":"RAJA AMPAT", "size":"0" },
                         { "name":"TELUK BINTUNI", "size":"12314" },
                         { "name":"TELUK WONDAMA", "size":"3291" },
                         { "name":"KAIMANA", "size":"0" },
                         { "name":"TAMBRAUW", "size":"4559" },
                         { "name":"MAYBRAT", "size":"7963" },
-                        { "name":"KOTA SORONG", "size":"26140" }
+                        { "name":"KOTA SORONG", "size":"18531" }
                     ]
                 }
             ]
@@ -684,16 +684,16 @@
                         { "name":"ACEH SINGKIL", "size":"19230" },
                         { "name":"BIREUEN", "size":"60087" },
                         { "name":"ACEH BARAT DAYA", "size":"21976" },
-                        { "name":"GAYO LUES", "size":"15891" },
+                        { "name":"GAYO LUES", "size":"25640" },
                         { "name":"ACEH JAYA", "size":"13053" },
                         { "name":"NAGAN RAYA", "size":"38848" },
                         { "name":"ACEH TAMIANG", "size":"41143" },
                         { "name":"BENER MERIAH", "size":"13041" },
                         { "name":"PIDIE JAYA", "size":"30338" },
                         { "name":"KOTA BANDA ACEH", "size":"36003" },
-                        { "name":"KOTA LANGSA", "size":"18340" },
                         { "name":"KOTA SABANG", "size":"5537" },
                         { "name":"KOTA LHOKSEUMAWE", "size":"19296" },
+                        { "name":"KOTA LANGSA", "size":"18340" },
                         { "name":"KOTA SUBULUSSALAM", "size":"11276" }
                     ]
                 },
@@ -713,7 +713,7 @@
                         { "name":"DAIRI", "size":"109732" },
                         { "name":"TOBA SAMOSIR", "size":"79525" },
                         { "name":"MANDAILING NATAL", "size":"47046" },
-                        { "name":"NIAS SELATAN", "size":"110409" },
+                        { "name":"NIAS SELATAN", "size":"137311" },
                         { "name":"PAKPAK BHARAT", "size":"12075" },
                         { "name":"HUMBANG HASUNDUTAN", "size":"77704" },
                         { "name":"SAMOSIR", "size":"53586" },
@@ -721,8 +721,8 @@
                         { "name":"BATU BARA", "size":"93483" },
                         { "name":"PADANG LAWAS UTARA", "size":"35748" },
                         { "name":"PADANG LAWAS", "size":"28789" },
-                        { "name":"LABUHANBATU UTARA", "size":"84783" },
                         { "name":"LABUHANBATU SELATAN", "size":"73580" },
+                        { "name":"LABUHANBATU UTARA", "size":"84783" },
                         { "name":"NIAS UTARA", "size":"45305" },
                         { "name":"NIAS BARAT", "size":"26373" },
                         { "name":"KOTA MEDAN", "size":"486395" },
@@ -731,8 +731,8 @@
                         { "name":"KOTA TANJUNG BALAI", "size":"28611" },
                         { "name":"KOTA BINJAI", "size":"45463" },
                         { "name":"KOTA TEBING TINGGI", "size":"35498" },
-                        { "name":"KOTA PADANG SIDIMPUAN", "size":"23423" },
-                        { "name":"KOTA GUNUNGSITOLI", "size":"45868" }
+                        { "name":"KOTA GUNUNGSITOLI", "size":"45868" },
+                        { "name":"KOTA PADANG SIDIMPUAN", "size":"23423" }
                     ]
                 },
                 {
@@ -751,12 +751,12 @@
                         { "name":"SOLOK SELATAN", "size":"17103" },
                         { "name":"PASAMAN BARAT", "size":"39895" },
                         { "name":"KOTA PADANG", "size":"83698" },
-                        { "name":"KOTA PADANG PANJANG", "size":"4402" },
                         { "name":"KOTA SAWAHLUNTO", "size":"6666" },
-                        { "name":"KOTA SOLOK", "size":"5070" },
                         { "name":"KOTA BUKITTINGGI", "size":"5575" },
+                        { "name":"KOTA PADANG PANJANG", "size":"4402" },
                         { "name":"KOTA PAYAKUMBUH", "size":"11750" },
-                        { "name":"KOTA PARIAMAN", "size":"6670" }
+                        { "name":"KOTA PARIAMAN", "size":"6670" },
+                        { "name":"KOTA SOLOK", "size":"5070" }
                     ]
                 },
                 {
@@ -807,8 +807,8 @@
                         { "name":"OGAN ILIR", "size":"25174" },
                         { "name":"EMPAT LAWANG", "size":"0" },
                         { "name":"KOTA PALEMBANG", "size":"290107" },
-                        { "name":"KOTA LUBUKLINGGAU", "size":"49873" },
                         { "name":"KOTA PAGAR ALAM", "size":"25318" },
+                        { "name":"KOTA LUBUKLINGGAU", "size":"49873" },
                         { "name":"KOTA PRABUMULIH", "size":"45896" }
                     ]
                 },
@@ -852,8 +852,8 @@
                         { "name":"BANGKA", "size":"57144" },
                         { "name":"BELITUNG", "size":"60700" },
                         { "name":"BANGKA SELATAN", "size":"56235" },
-                        { "name":"BANGKA TENGAH", "size":"52707" },
                         { "name":"BANGKA BARAT", "size":"64716" },
+                        { "name":"BANGKA TENGAH", "size":"52707" },
                         { "name":"BELITUNG TIMUR", "size":"42817" },
                         { "name":"KOTA PANGKALPINANG", "size":"49703" }
                     ]
@@ -873,8 +873,8 @@
                 {
                     "name":"DKI JAKARTA",
                     "children": [
-                        { "name":"JAKARTA PUSAT", "size":"308059" },
                         { "name":"KEPULAUAN SERIBU", "size":"8089" },
+                        { "name":"JAKARTA PUSAT", "size":"308059" },
                         { "name":"JAKARTA UTARA", "size":"517395" },
                         { "name":"JAKARTA BARAT", "size":"742103" },
                         { "name":"JAKARTA SELATAN", "size":"568356" },
@@ -907,9 +907,9 @@
                         { "name":"KOTA CIREBON", "size":"91079" },
                         { "name":"KOTA BEKASI", "size":"555525" },
                         { "name":"KOTA DEPOK", "size":"412695" },
-                        { "name":"KOTA CIMAHI", "size":"104239" },
                         { "name":"KOTA TASIKMALAYA", "size":"99307" },
-                        { "name":"KOTA BANJAR", "size":"49664" }
+                        { "name":"KOTA BANJAR", "size":"49664" },
+                        { "name":"KOTA CIMAHI", "size":"104239" }
                     ]
                 },
                 {
@@ -945,11 +945,11 @@
                         { "name":"TEGAL", "size":"451961" },
                         { "name":"BREBES", "size":"601106" },
                         { "name":"KOTA SURAKARTA", "size":"284199" },
+                        { "name":"KOTA SALATIGA", "size":"68664" },
                         { "name":"KOTA MAGELANG", "size":"42056" },
                         { "name":"KOTA SEMARANG", "size":"624289" },
-                        { "name":"KOTA SALATIGA", "size":"68664" },
-                        { "name":"KOTA TEGAL", "size":"78775" },
-                        { "name":"KOTA PEKALONGAN", "size":"99814" }
+                        { "name":"KOTA PEKALONGAN", "size":"99814" },
+                        { "name":"KOTA TEGAL", "size":"78775" }
                     ]
                 },
                 {
@@ -996,12 +996,12 @@
                         { "name":"SUMENEP", "size":"232682" },
                         { "name":"KOTA KEDIRI", "size":"100492" },
                         { "name":"KOTA BLITAR", "size":"54599" },
-                        { "name":"KOTA PROBOLINGGO", "size":"58149" },
                         { "name":"KOTA MALANG", "size":"270971" },
                         { "name":"KOTA PASURUAN", "size":"43896" },
+                        { "name":"KOTA PROBOLINGGO", "size":"58149" },
                         { "name":"KOTA MADIUN", "size":"65059" },
-                        { "name":"KOTA SURABAYA", "size":"892123" },
                         { "name":"KOTA MOJOKERTO", "size":"41504" },
+                        { "name":"KOTA SURABAYA", "size":"892123" },
                         { "name":"KOTA BATU", "size":"113339" }
                     ]
                 },
@@ -1023,11 +1023,11 @@
                     "children": [
                         { "name":"JEMBRANA", "size":"104801" },
                         { "name":"TABANAN", "size":"210896" },
-                        { "name":"GIANYAR", "size":"223125" },
                         { "name":"BADUNG", "size":"189217" },
+                        { "name":"GIANYAR", "size":"223125" },
+                        { "name":"BANGLI", "size":"102528" },
                         { "name":"KLUNGKUNG", "size":"70831" },
                         { "name":"KARANGASEM", "size":"159864" },
-                        { "name":"BANGLI", "size":"102528" },
                         { "name":"BULELENG", "size":"232228" },
                         { "name":"KOTA DENPASAR", "size":"241620" }
                     ]
@@ -1043,8 +1043,8 @@
                         { "name":"BIMA", "size":"67336" },
                         { "name":"SUMBAWA BARAT", "size":"22185" },
                         { "name":"LOMBOK UTARA", "size":"35846" },
-                        { "name":"KOTA MATARAM", "size":"71647" },
-                        { "name":"KOTA BIMA", "size":"18916" }
+                        { "name":"KOTA BIMA", "size":"18916" },
+                        { "name":"KOTA MATARAM", "size":"71647" }
                     ]
                 },
                 {
@@ -1065,12 +1065,12 @@
                         { "name":"LEMBATA", "size":"22201" },
                         { "name":"ROTE NDAO", "size":"44482" },
                         { "name":"MANGGARAI BARAT", "size":"81816" },
-                        { "name":"SUMBA TENGAH", "size":"3573" },
                         { "name":"NAGEKEO", "size":"56426" },
+                        { "name":"SUMBA TENGAH", "size":"3573" },
                         { "name":"SUMBA BARAT DAYA", "size":"119178" },
                         { "name":"MANGGARAI TIMUR", "size":"82233" },
-                        { "name":"SABU RAIJUA", "size":"24597" },
-                        { "name":"KOTA KUPANG", "size":"107274" }
+                        { "name":"KOTA KUPANG", "size":"107274" },
+                        { "name":"SABU RAIJUA", "size":"24597" }
                     ]
                 },
                 {
@@ -1095,18 +1095,18 @@
                 {
                     "name":"KALIMANTAN TENGAH",
                     "children": [
-                        { "name":"KOTAWARINGIN BARAT", "size":"65241" },
                         { "name":"KOTAWARINGIN TIMUR", "size":"127678" },
+                        { "name":"KOTAWARINGIN BARAT", "size":"65241" },
                         { "name":"KAPUAS", "size":"83402" },
                         { "name":"BARITO SELATAN", "size":"30520" },
                         { "name":"BARITO UTARA", "size":"0" },
                         { "name":"KATINGAN", "size":"48245" },
                         { "name":"SERUYAN", "size":"51660" },
-                        { "name":"SUKAMARA", "size":"14199" },
                         { "name":"LAMANDAU", "size":"23889" },
+                        { "name":"SUKAMARA", "size":"14199" },
                         { "name":"GUNUNG MAS", "size":"0" },
-                        { "name":"PULANG PISAU", "size":"36991" },
                         { "name":"MURUNG RAYA", "size":"25468" },
+                        { "name":"PULANG PISAU", "size":"36991" },
                         { "name":"BARITO TIMUR", "size":"36052" },
                         { "name":"KOTA PALANGKARAYA", "size":"63851" }
                     ]
@@ -1132,20 +1132,20 @@
                 {
                     "name":"KALIMANTAN TIMUR",
                     "children": [
-                        { "name":"KUTAI KARTANEGARA", "size":"207503" },
                         { "name":"PASER", "size":"65438" },
+                        { "name":"KUTAI KARTANEGARA", "size":"207503" },
                         { "name":"BERAU", "size":"64598" },
                         { "name":"BULUNGAN", "size":"36410" },
-                        { "name":"NUNUKAN", "size":"22181" },
+                        { "name":"NUNUKAN", "size":"42611" },
                         { "name":"MALINAU", "size":"26753" },
                         { "name":"KUTAI BARAT", "size":"75625" },
                         { "name":"KUTAI TIMUR", "size":"100346" },
-                        { "name":"PENAJAM PASER UTARA", "size":"42538" },
                         { "name":"TANA TIDUNG", "size":"6113" },
+                        { "name":"PENAJAM PASER UTARA", "size":"42538" },
                         { "name":"KOTA BALIKPAPAN", "size":"177102" },
                         { "name":"KOTA SAMARINDA", "size":"216320" },
-                        { "name":"KOTA TARAKAN", "size":"57213" },
-                        { "name":"KOTA BONTANG", "size":"52112" }
+                        { "name":"KOTA BONTANG", "size":"52112" },
+                        { "name":"KOTA TARAKAN", "size":"57213" }
                     ]
                 },
                 {
@@ -1159,8 +1159,8 @@
                         { "name":"MINAHASA UTARA", "size":"60620" },
                         { "name":"MINAHASA TENGGARA", "size":"31437" },
                         { "name":"BOLAANG MONGONDOW UTARA", "size":"18012" },
-                        { "name":"BOLAANG MONGONDOW SELATAN", "size":"14495" },
                         { "name":"BOLAANG MONGONDOW TIMUR", "size":"13864" },
+                        { "name":"BOLAANG MONGONDOW SELATAN", "size":"14495" },
                         { "name":"KOTA MANADO", "size":"134572" },
                         { "name":"KOTA BITUNG", "size":"60822" },
                         { "name":"KOTA TOMOHON", "size":"31401" },
@@ -1195,8 +1195,8 @@
                         { "name":"BONE", "size":"339766" },
                         { "name":"MAROS", "size":"126719" },
                         { "name":"PANGKAJENE DAN KEPULAUAN", "size":"116198" },
-                        { "name":"BARRU", "size":"79091" },
                         { "name":"SOPPENG", "size":"109559" },
+                        { "name":"BARRU", "size":"79091" },
                         { "name":"WAJO", "size":"148447" },
                         { "name":"SIDENRENG RAPPANG", "size":"117866" },
                         { "name":"PINRANG", "size":"134037" },
@@ -1232,8 +1232,8 @@
                     "name":"GORONTALO",
                     "children": [
                         { "name":"GORONTALO", "size":"67189" },
-                        { "name":"BONE BOLANGO", "size":"30674" },
                         { "name":"BOALEMO", "size":"33179" },
+                        { "name":"BONE BOLANGO", "size":"30674" },
                         { "name":"PAHUWATO", "size":"32126" },
                         { "name":"GORONTALO UTARA", "size":"20161" },
                         { "name":"KOTA GORONTALO", "size":"38168" }
@@ -1253,16 +1253,16 @@
                     "name":"MALUKU",
                     "children": [
                         { "name":"MALUKU TENGAH", "size":"0" },
-                        { "name":"MALUKU TENGGARA", "size":"33929" },
                         { "name":"MALUKU TENGGARA BARAT", "size":"0" },
+                        { "name":"MALUKU TENGGARA", "size":"33929" },
                         { "name":"BURU", "size":"20805" },
                         { "name":"SERAM BAGIAN TIMUR", "size":"0" },
                         { "name":"SERAM BAGIAN BARAT", "size":"17125" },
                         { "name":"KEPULAUAN ARU", "size":"16612" },
                         { "name":"MALUKU BARAT DAYA", "size":"13960" },
                         { "name":"BURU SELATAN", "size":"0" },
-                        { "name":"KOTA TUAL", "size":"0" },
-                        { "name":"KOTA AMBON", "size":"100744" }
+                        { "name":"KOTA AMBON", "size":"100744" },
+                        { "name":"KOTA TUAL", "size":"0" }
                     ]
                 },
                 {
@@ -1291,8 +1291,8 @@
                         { "name":"PUNCAK JAYA", "size":"45776" },
                         { "name":"PANIAI", "size":"0" },
                         { "name":"MIMIKA", "size":"124583" },
-                        { "name":"SARMI", "size":"13108" },
                         { "name":"KEEROM", "size":"0" },
+                        { "name":"SARMI", "size":"13108" },
                         { "name":"PEGUNUNGAN BINTANG", "size":"84146" },
                         { "name":"YAHUKIMO", "size":"72966" },
                         { "name":"TOLIKARA", "size":"0" },
@@ -1304,8 +1304,8 @@
                         { "name":"MAMBERAMO RAYA", "size":"0" },
                         { "name":"MAMBERAMO TENGAH", "size":"0" },
                         { "name":"YALIMO", "size":"50050" },
-                        { "name":"LANNY JAYA", "size":"62609" },
                         { "name":"NDUGA", "size":"0" },
+                        { "name":"LANNY JAYA", "size":"62609" },
                         { "name":"PUNCAK", "size":"149096" },
                         { "name":"DOGIYAI", "size":"0" },
                         { "name":"INTAN JAYA", "size":"0" },
@@ -1317,16 +1317,16 @@
                     "name":"PAPUA BARAT",
                     "children": [
                         { "name":"SORONG", "size":"33514" },
-                        { "name":"MANOKWARI", "size":"83418" },
-                        { "name":"FAKFAK", "size":"0" },
+                        { "name":"MANOKWARI", "size":"84255" },
                         { "name":"SORONG SELATAN", "size":"16851" },
+                        { "name":"FAKFAK", "size":"0" },
                         { "name":"RAJA AMPAT", "size":"0" },
                         { "name":"TELUK BINTUNI", "size":"28499" },
                         { "name":"TELUK WONDAMA", "size":"14104" },
                         { "name":"KAIMANA", "size":"0" },
                         { "name":"TAMBRAUW", "size":"15274" },
                         { "name":"MAYBRAT", "size":"20882" },
-                        { "name":"KOTA SORONG", "size":"49904" }
+                        { "name":"KOTA SORONG", "size":"38762" }
                     ]
                 }
             ]
