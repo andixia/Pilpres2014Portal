@@ -16,7 +16,7 @@
                 { "name":"KEPULAUAN RIAU", "size":"332912" },
                 { "name":"DKI JAKARTA", "size":"2528309" },
                 { "name":"JAWA BARAT", "size":"13102308" },
-                { "name":"JAWA TENGAH", "size":"6054525" },
+                { "name":"JAWA TENGAH", "size":"6070022" },
                 { "name":"DAERAH ISTIMEWA YOGYAKARTA", "size":"977342" },
                 { "name":"JAWA TIMUR", "size":"9949500" },
                 { "name":"BANTEN", "size":"3192671" },
@@ -36,7 +36,7 @@
                 { "name":"MALUKU", "size":"169989" },
                 { "name":"MALUKU UTARA", "size":"242433" },
                 { "name":"PAPUA", "size":"258283" },
-                { "name":"PAPUA BARAT", "size":"115182" }
+                { "name":"PAPUA BARAT", "size":"118759" }
             ]
         },
         {
@@ -54,7 +54,7 @@
                 { "name":"KEPULAUAN RIAU", "size":"491819" },
                 { "name":"DKI JAKARTA", "size":"2860635" },
                 { "name":"JAWA BARAT", "size":"8843990" },
-                { "name":"JAWA TENGAH", "size":"12250238" },
+                { "name":"JAWA TENGAH", "size":"12310954" },
                 { "name":"DAERAH ISTIMEWA YOGYAKARTA", "size":"1234249" },
                 { "name":"JAWA TIMUR", "size":"11278852" },
                 { "name":"BANTEN", "size":"2398631" },
@@ -74,7 +74,7 @@
                 { "name":"MALUKU", "size":"203175" },
                 { "name":"MALUKU UTARA", "size":"201133" },
                 { "name":"PAPUA", "size":"801083" },
-                { "name":"PAPUA BARAT", "size":"252406" }
+                { "name":"PAPUA BARAT", "size":"263283" }
             ]
         }
     ]
