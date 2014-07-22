@@ -5,7 +5,7 @@
             "name":"@prabowo08",
             "children": [
                 { "name":"ACEH", "size":"959184" },
-                { "name":"SUMATERA UTARA", "size":"5383185" },
+                { "name":"SUMATERA UTARA", "size":"5440060" },
                 { "name":"SUMATERA BARAT", "size":"1763932" },
                 { "name":"RIAU", "size":"1349338" },
                 { "name":"JAMBI", "size":"866190" },
@@ -22,7 +22,7 @@
                 { "name":"BANTEN", "size":"3192671" },
                 { "name":"BALI", "size":"614241" },
                 { "name":"NUSA TENGGARA BARAT", "size":"1838614" },
-                { "name":"NUSA TENGGARA TIMUR", "size":"754496" },
+                { "name":"NUSA TENGGARA TIMUR", "size":"759441" },
                 { "name":"KALIMANTAN BARAT", "size":"1032355" },
                 { "name":"KALIMANTAN TENGAH", "size":"431674" },
                 { "name":"KALIMANTAN SELATAN", "size":"697812" },
@@ -36,14 +36,14 @@
                 { "name":"MALUKU", "size":"169989" },
                 { "name":"MALUKU UTARA", "size":"242433" },
                 { "name":"PAPUA", "size":"258283" },
-                { "name":"PAPUA BARAT", "size":"118759" }
+                { "name":"PAPUA BARAT", "size":"115182" }
             ]
         },
         {
             "name":"@jokowi_do2",
             "children": [
                 { "name":"ACEH", "size":"790054" },
-                { "name":"SUMATERA UTARA", "size":"6651049" },
+                { "name":"SUMATERA UTARA", "size":"6697607" },
                 { "name":"SUMATERA BARAT", "size":"530237" },
                 { "name":"RIAU", "size":"1342817" },
                 { "name":"JAMBI", "size":"894875" },
@@ -60,7 +60,7 @@
                 { "name":"BANTEN", "size":"2398631" },
                 { "name":"BALI", "size":"1535110" },
                 { "name":"NUSA TENGGARA BARAT", "size":"698323" },
-                { "name":"NUSA TENGGARA TIMUR", "size":"1461116" },
+                { "name":"NUSA TENGGARA TIMUR", "size":"1470139" },
                 { "name":"KALIMANTAN BARAT", "size":"1573168" },
                 { "name":"KALIMANTAN TENGAH", "size":"607196" },
                 { "name":"KALIMANTAN SELATAN", "size":"630469" },
@@ -74,7 +74,7 @@
                 { "name":"MALUKU", "size":"203175" },
                 { "name":"MALUKU UTARA", "size":"201133" },
                 { "name":"PAPUA", "size":"801083" },
-                { "name":"PAPUA BARAT", "size":"263283" }
+                { "name":"PAPUA BARAT", "size":"252406" }
             ]
         }
     ]
