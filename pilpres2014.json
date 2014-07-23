@@ -4,7 +4,7 @@
         {
             "name":"@prabowo08",
             "children": [
-                { "name":"ACEH", "size":"959184" },
+                { "name":"ACEH", "size":"963981" },
                 { "name":"SUMATERA UTARA", "size":"5440060" },
                 { "name":"SUMATERA BARAT", "size":"1763932" },
                 { "name":"RIAU", "size":"1349338" },
@@ -42,7 +42,7 @@
         {
             "name":"@jokowi_do2",
             "children": [
-                { "name":"ACEH", "size":"790054" },
+                { "name":"ACEH", "size":"794946" },
                 { "name":"SUMATERA UTARA", "size":"6697607" },
                 { "name":"SUMATERA BARAT", "size":"530237" },
                 { "name":"RIAU", "size":"1342817" },
